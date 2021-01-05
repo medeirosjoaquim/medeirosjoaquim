@@ -14,10 +14,10 @@
 were made as challenge for positions or personal study</p>
 
 
-<a href="https://github.com/medeirosjoaquim/anticipation-calculator" target="_blank">vanilla web components app</a>
-<a href="https://github.com/medeirosjoaquim/ng-pokedex" target="_blank">angular pokedex</a>
-<a href="https://github.com/medeirosjoaquim/ng-typeahead" target="_blank">angular search component with typeahead</a>
-<a href="https://github.com/medeirosjoaquim/-ng-weather-demo" target="_blank">a simple angular app that consumes algolia search api</a>
-<a href="https://github.com/medeirosjoaquim/checklines" target="_blank">python tool I made to check the size of your commits</a>
-<a href="https://github.com/medeirosjoaquim/PyGeoJson" target="_blank">pygeoJson is a fork that I fixed and made reusable</a>
-<a href="https://github.com/medeirosjoaquim/bashmaker" target="_blank">this one is old but I kinda like it. a tool to monitor folder for changes</a>
+<p><a href="https://github.com/medeirosjoaquim/anticipation-calculator" target="_blank">vanilla web components app</a></p>
+<p><a href="https://github.com/medeirosjoaquim/ng-pokedex" target="_blank">angular pokedex</a></p>
+<p><a href="https://github.com/medeirosjoaquim/ng-typeahead" target="_blank">angular search component with typeahead</a></p>
+<p><a href="https://github.com/medeirosjoaquim/-ng-weather-demo" target="_blank">a simple angular app that consumes algolia search api</a></p>
+<p><a href="https://github.com/medeirosjoaquim/checklines" target="_blank">python tool I made to check the size of your commits</a></p>
+<p><a href="https://github.com/medeirosjoaquim/PyGeoJson" target="_blank">pygeoJson is a fork that I fixed and made reusable</a></p>
+<p><a href="https://github.com/medeirosjoaquim/bashmaker" target="_blank">this one is old but I kinda like it. a tool to monitor folder for changes</a></p>
