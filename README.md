@@ -14,6 +14,7 @@
 were made as challenge for positions or personal study</p>
 
 
+<p><a href="https://github.com/medeirosjoaquim/address_book" target="_blank">react random users</a></p>
 <p><a href="https://github.com/medeirosjoaquim/anticipation-calculator" target="_blank">vanilla web components app</a></p>
 <p><a href="https://github.com/medeirosjoaquim/ng-pokedex" target="_blank">angular pokedex</a></p>
 <p><a href="https://github.com/medeirosjoaquim/ng-typeahead" target="_blank">angular search component with typeahead</a></p>
