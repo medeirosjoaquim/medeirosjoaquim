@@ -17,7 +17,7 @@ were made as challenge for positions or personal study</p>
 
 
 <p><a href="https://github.com/medeirosjoaquim/address_book" target="_blank">react random users</a></p>
-
+<p><a href="http://cat.johnboxcodes.com/" target="_blank">cat advices 🐱</a></p>
 <p><a href="https://github.com/medeirosjoaquim/ng-pokedex" target="_blank">angular pokedex</a></p>
 <p><a href="https://github.com/medeirosjoaquim/ng-typeahead" target="_blank">angular search component with typeahead</a></p>
 <p><a href="https://github.com/medeirosjoaquim/-ng-weather-demo" target="_blank">a simple angular app that consumes algolia search api</a></p>
