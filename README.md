@@ -7,7 +7,7 @@
 
 <h2 align="center">Hey, I'm Joaquim</h2>
 <p align="center">I'm a Web Dev.</p>
-<p>I like to ride bike, drink coffee and play guitar.I also drink a lot of water.
+<p>I like to ride bike, drink coffee and play guitar.I love cats and functional programming. I also drink a lot of water.
 <p> my linkedin: <a href="https://www.linkedin.com/in/joaquim-medeiros/" target="_blank"><img height="15" src="https://image.flaticon.com/icons/svg/733/733561.svg"></a></p>
 
 
