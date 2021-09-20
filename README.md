@@ -13,7 +13,7 @@
 
 
 <p>here are links for some stuff I've built, although it's not updated in a while. most of them
-were made as challenge for positions or personal study</p>
+were made as assesments or personal study</p>
 
 
 <p><a href="https://github.com/medeirosjoaquim/address_book" target="_blank">react random users</a></p>
