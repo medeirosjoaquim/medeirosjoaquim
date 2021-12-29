@@ -12,8 +12,7 @@
 
 
 
-<p>here are links for some stuff I've built, although it's not updated in a while. most of them
-were made as assesments or personal study</p>
+## Portfolio
 
 <p><a href="http://wine.johnboxcodes.com/" target="_blank">Search wines - React</a></p>
 <p><a href="https://puzzle.johnboxcodes.com/" target="_blank">React puzzle - made for Chrome</a></p>
