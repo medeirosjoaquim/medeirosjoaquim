@@ -14,8 +14,9 @@
 
 ## Portfolio
 
-<p><a href="http://wine.johnboxcodes.com/" target="_blank">Search wines - React</a></p>
-<p><a href="https://puzzle.johnboxcodes.com/" target="_blank">React puzzle - made for Chrome</a></p>
+<li><a href="http://wine.johnboxcodes.com/" target="_blank">Search wines - React</a></li>
+<p><a href="https://calendar.johnboxcodes.com/" target="_blank">React calendar component</a></p>
+<p><a href="https://puzzle.johnboxcodes.com/" target="_blank">React puzzle - works only in Chrome</a></p>
 <p><a href="https://github.com/medeirosjoaquim/address_book" target="_blank">React address book</a></p>
 <p><a href="http://cat.johnboxcodes.com/" target="_blank">Cat advices 🐱</a></p>
 <p><a href="https://github.com/medeirosjoaquim/ng-pokedex" target="_blank">Angular pokedex</a></p>
