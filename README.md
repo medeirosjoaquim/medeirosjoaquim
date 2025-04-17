@@ -14,7 +14,8 @@
 
 ## Portfolio
 
-<li><a href="https://vision.johnboxcodes.com/" target="_blank">QR Code generator</a></li>
+<li><a href="https://vision.johnboxcodes.com/" target="_blank">Generate captions and speech with AI</a></li>
+<li><a href="https://qr.johnboxcodes.com/" target="_blank">QR Code generator</a></li>
 <li><a href="https://melhoraposta.vip/" target="_blank">Generate numbers for lotto games</a></li>
 <li><a href="https://github.com/medeirosjoaquim/checklines" target="_blank">Python tool I made to check the size of your commits</a></li>
 <li><a href="https://github.com/medeirosjoaquim/PyGeoJson" target="_blank">PygeoJson is a fork that I fixed and made reusable</a></li>
