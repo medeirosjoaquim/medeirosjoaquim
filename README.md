@@ -8,7 +8,8 @@
 <h2 align="center">Hey, I'm Joaquim</h2>
 <p align="center">I'm a Web Dev.</p>
 <p>I like to ride bike, drink coffee and play guitar. I love cats.
-<p><a href="https://www.linkedin.com/in/joaquim-medeiros/" target="_blank"> My linkedin</a></p>
+<p><a href="https://www.linkedin.com/in/joaquim-medeiros/" target="_blank"> My Linkedin</a></p>
+<p><a href="https://johnboxcodes.com/" target="_blank"> My website</a></p>
 
 
 
