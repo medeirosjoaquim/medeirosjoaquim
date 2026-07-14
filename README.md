@@ -1,12 +1,11 @@
 ## [![joaquim medeiros header](https://github.com/medeirosjoaquim/medeirosjoaquim/blob/main/images/me.png)]('')
 
 
-<img align="right" height="150" src="https://media.giphy.com/media/OeyAkKTKYSvmw/giphy.gif"/>
 
 <p align='center'>
 
 <h2 align="center">Hey, I'm Joaquim</h2>
-<p align="center">Senior Full-Stack Engineer with 10+ years of experience building products across the full stack — from React and
+<p align="center">Senior Full-Stack Engineer with 10+ years of experience building products across the full stack. From React and
 Node.js frontends to backend services and cloud infrastructure. Has delivered end-to-end systems at YC-backed
 startups and regulated platforms serving 50K+ users, taking ownership from ambiguous problem to production.
 Operates at founding-engineer scope: shipping to revenue, not just to spec</p>
