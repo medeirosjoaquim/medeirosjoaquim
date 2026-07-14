@@ -6,8 +6,11 @@
 <p align='center'>
 
 <h2 align="center">Hey, I'm Joaquim</h2>
-<p align="center">I'm a Web Dev.</p>
-<p>I like to ride bike, drink coffee and play guitar. I love cats.
+<p align="center">Senior Full-Stack Engineer with 10+ years of experience building products across the full stack — from React and
+Node.js frontends to backend services and cloud infrastructure. Has delivered end-to-end systems at YC-backed
+startups and regulated platforms serving 50K+ users, taking ownership from ambiguous problem to production.
+Operates at founding-engineer scope: shipping to revenue, not just to spec</p>
+
 <p><a href="https://www.linkedin.com/in/joaquim-medeiros/" target="_blank"> My Linkedin</a></p>
 <p><a href="https://johnboxcodes.com/" target="_blank"> My website</a></p>
 
